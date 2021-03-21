@@ -1,0 +1,44 @@
+.title {
+    width: 400px;
+    background-color: bisque;
+    color: rgb(167, 105, 224);
+    font-weight: normal;
+    text-align: center;
+}
+.card {
+    background-color: #ddbdf1;
+    width: 400px;
+    text-align: center;
+    margin: 2%;
+}
+.posts {
+    background-color: bisque;
+    color: rgb(167, 105, 224);
+    text-align: left;
+    width: 400px;
+    list-style-type: none;
+    margin-top: 3%;
+    font-size: 120%;
+    
+}
+.icon {
+    color: rgb(167, 105, 224);
+}
+.newPost {
+    width: 400px;
+    vertical-align: middle;
+    color: rgb(167, 105, 224);
+    font-weight: normal;
+    text-align: right;
+    margin: 0;
+}
+.header {
+    background-color: bisque;
+    color: rgb(167, 105, 224);
+    width: 400px;
+    text-align: center;
+    margin: 2%;
+}
+.link {
+    margin: 2%;
+}
